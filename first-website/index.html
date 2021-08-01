@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="main.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Stardos+Stencil:wght@700&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div class="container">
+        <header>
+         <img src="web assets/logo@2x.png" alt="alkhazriji logo" class="logo">
+
+            <nav>
+                <a href="#" class="hide-desktop">
+                   <img src="web assets/menu.x.png" alt="toggle menu" class="menu" id="menu">
+                </a>
+
+                <ul class="show-desktop hide-mobile" id="nav">
+                    <li id="exit" class="exit-btn hide-desktop"><img src="web assets/exit icon.png" alt="exit menu"></li>
+                    <li><a href="#">home</a></li>
+                    <li><a href="#">services</a></li>
+                    <li><a href="#">about</a></li>
+                    <li><a href="#">contact</a></li>
+                </ul>
+            </nav>
+        </header>
+
+        <section>
+            
+            <img src="web assets/server cube@2x.png" alt="server" class="server">
+
+            <h1>Web Hosting for Modern Era</h1>
+            <p class="subhead">Go serverless and pay only for what you use.</p>
+
+            <img src="web assets/slide.png" alt="scroll" class="scroll" class="scroll hide-mobile show-desktop">
+
+        </section>
+    </div>
+
+    <div class="blue-container">
+        <div class="container">
+            <ul>
+
+                <li>
+                    <img src="web assets/calendar.png" alt="calender icon">
+                    <p>The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax</p>
+                </li>
+
+                <li>
+                    <img src="web assets/wallet.png" alt="wallet icon">
+                    <p>The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax</p>
+                </li>
+
+                <li>
+                    <img src="web assets/phone.png" alt="phone icon">
+                    <p>The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax</p>
+                </li>
+
+            </ul>
+        </div>
+    </div>
+
+    <div class="grey-container">
+        <div class="container">
+
+            <ul>
+                <li>
+
+                    <figure>
+                        <img src="web assets/user img 1.png" alt="user 1 image">
+                        <blockquote>"The quick, brown fox jumps over a lazy dog. DJs flock by when MTV."</blockquote>
+                        <figcaption class="quotes">-Jane Doe</figcaption>
+                    </figure>
+
+                    <figure>
+                        <img src="web assets/user img 2.png" alt="user 2 image">
+                        <blockquote>"The quick, brown fox jumps over a lazy dog. DJs flock by when MTV."</blockquote>
+                        <figcaption class="quotes">-Jessica Mo</figcaption>
+                    </figure>
+
+                </li>
+            </ul>
+
+        </div>
+    </div>
+
+    <div class="container">
+        <h2>Start your free trail now!</h2>
+        <a href="#" class="cta">Get started</a>
+    </div>
+
+    <footer>
+        <div class="footer-container">
+            <div class="container">
+
+                <ul class="footer-links">
+                    <li><a href="#">terms of service</a></li>
+                    <li><a href="#">privacy policy</a></li>
+                </ul>
+                
+                <a href="#">
+                    <img src="web assets/small logo.png" class="logo" alt="logo">
+                </a>
+                
+            </div>
+        </div>
+    </footer>
+
+
+    <script>
+        var menu = document.getElementById('menu')
+        var nav = document.getElementById('nav')
+        var exit = document.getElementById('exit')
+
+        menu.addEventListener('click', function(e)
+        {
+            nav.classList.toggle('hide-mobile')
+            e.preventDefault();
+        });
+
+        exit.addEventListener('click', function(e)
+        {
+            nav.classList.add('hide-mobile')
+            e.preventDefault();
+        });
+    </script>
+</body>
+</html>
+   
