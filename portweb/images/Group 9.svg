@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="110" height="112" viewBox="0 0 110 112">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: rgba(133,46,248,0.73);
+      }
+
+      .cls-1, .cls-3 {
+        font-size: 50px;
+        font-family: Poppins-Bold, Poppins;
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        fill: rgba(101,86,86,0.73);
+      }
+
+      .cls-3 {
+        fill: #852ef8;
+      }
+
+      .cls-4 {
+        fill: #8f8484;
+      }
+    </style>
+  </defs>
+  <g id="Group_9" data-name="Group 9" transform="translate(-233 -2544.898)">
+    <text id="LO" class="cls-1" transform="translate(265 2597.898)"><tspan x="-31.575" y="0">L</tspan><tspan class="cls-2" y="0">O</tspan></text>
+    <text id="GO" class="cls-3" transform="translate(304 2638.898)"><tspan x="-38.7" y="0">G</tspan><tspan class="cls-4" y="0">O</tspan></text>
+  </g>
+</svg>

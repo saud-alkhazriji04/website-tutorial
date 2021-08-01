@@ -1,0 +1,18 @@
+<svg width="568" height="568" viewBox="0 0 568 568">
+  <g id="Group_4" data-name="Group 4" transform="translate(-895 -295)">
+    <rect id="Rectangle_4" data-name="Rectangle 4" width="142" height="142" rx="28" transform="translate(1179 295)" fill="#852ef8"/>
+    <rect id="Rectangle_5" data-name="Rectangle 5" width="142" height="142" rx="28" transform="translate(1037 721)" fill="#fff"/>
+    <rect id="Rectangle_7" data-name="Rectangle 7" width="142" height="142" rx="28" transform="translate(1037 437)" fill="#fff"/>
+    <rect id="Rectangle_9" data-name="Rectangle 9" width="142" height="142" rx="28" transform="translate(1321 437)" fill="#852ef8" opacity="0.5"/>
+    <rect id="Rectangle_6" data-name="Rectangle 6" width="142" height="142" rx="28" transform="translate(895 579)" fill="#c296fb"/>
+    <rect id="Rectangle_8" data-name="Rectangle 8" width="142" height="142" rx="28" transform="translate(1179 579)" fill="#852ef8"/>
+    <g id="Ellipse_2" data-name="Ellipse 2" transform="translate(1179 437)" fill="#ff57e9" stroke="#707070" stroke-width="1">
+      <circle cx="71" cy="71" r="71" stroke="none"/>
+      <circle cx="71" cy="71" r="70.5" fill="none"/>
+    </g>
+    <g id="Ellipse_4" data-name="Ellipse 4" transform="translate(1037 579)" fill="#00f5fe" stroke="#707070" stroke-width="1">
+      <circle cx="71" cy="71" r="71" stroke="none"/>
+      <circle cx="71" cy="71" r="70.5" fill="none"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="310" height="71" viewBox="0 0 310 71">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #852ef8;
+        font-size: 50px;
+        font-family: Poppins-Bold, Poppins;
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        fill: #8f8484;
+      }
+    </style>
+  </defs>
+  <text id="_div_class_" data-name="&lt;div class=&quot;" class="cls-1" transform="translate(155 53)"><tspan x="-154.125" y="0">&lt;div </tspan><tspan class="cls-2" y="0">class=&quot;</tspan></text>
+</svg>
